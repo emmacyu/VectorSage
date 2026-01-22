@@ -1,0 +1,6 @@
+langchain
+pymongo
+pypdf
+huggingface-hub
+sentence-transformers
+gpt4all

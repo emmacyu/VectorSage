@@ -1,0 +1,1 @@
+VectorSage is a local-first RAG system built with LangChain, MongoDB, and LLMs.
